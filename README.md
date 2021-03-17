@@ -1,4 +1,4 @@
-# CompMethodsInMechAssignemt3JesseMyller
+# CMiMAssignmet3JesseMyller
 Matlab codes for the assignment 3 in BK70A0600 Computational Methods in Mechanics course
 
 Jesse Myller op# 0503199
